@@ -13,12 +13,11 @@
 
 
 
-![giphy (1)](https://user-images.githubusercontent.com/94759531/200421012-d3e245f6-7f7c-4b48-a998-55f9ba67ba62.gif)
 
 
- <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/amal-salah449/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amal-salah449" height="30" width="40" /></a>
-</p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=rrawann&count_private=true&show_icons=true&hide_title=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=rrawann&theme=flat&no-frame=true&margin-w=30" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrawann&hide_title=true&layout=compact" />
 
     
