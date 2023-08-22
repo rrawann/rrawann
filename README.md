@@ -4,7 +4,7 @@
 
 
 **About Me:**
-- 👩‍💻 I’m currently working as Backend Developer. **Expressjs ,Nestjs, MongoDB, Javascript, TypeScript**
+- 👩‍💻 I’m currently working as Backend Developer: **Expressjs ,Nestjs, MongoDB, Javascript, TypeScript**
 
 - 📫 How to reach me: [Rawan Salem](https://www.linkedin.com/in/rawan-salem-b-02570521b/)
 
