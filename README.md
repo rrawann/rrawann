@@ -31,7 +31,6 @@
 
 <hr/>
 <img src="https://github-readme-stats.vercel.app/api?username=rrawann&count_private=true&show_icons=true&hide_title=true" />
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrawann&hide_title=true&layout=compact" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=rrawann&theme=gruvbox_duo&hide_border=true" />
