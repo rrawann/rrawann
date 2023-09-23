@@ -1,4 +1,4 @@
-# Hi there, I am Rawan Salem <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+# Hi there, I am Rawan Salem    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=50&pause=1000&color=grey&width=600&height=70&lines=Welcome)](https://git.io/typing-svg)
 
