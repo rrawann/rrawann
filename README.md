@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=50&pause=1000&color=grey&width=600&height=70&lines=Welcome)](https://git.io/typing-svg)
  
-
+ 
 **About Me:**
 - 👩‍💻 I’m currently working as Web Developer: **Expressjs ,Nestjs, MongoDB,Next.js ,Reactjs Javascript, TypeScript**
 
