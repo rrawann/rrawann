@@ -6,7 +6,7 @@
 **About Me:**
 - 👩‍💻 I’m currently working as Web Developer: **Expressjs ,Nestjs, MongoDB,Next.js ,Reactjs Javascript, TypeScript**
 
-- 📫 How to reach me: [Rawan Salem](https://www.linkedin.com/in/rawan-salem-b-02570521b/)
+- 📫 How to reach me: [Rawan Salem](https://www.linkedin.com/in/rawan-salem-02570521b/)
 
                   
    
