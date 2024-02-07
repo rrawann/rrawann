@@ -10,7 +10,7 @@
 
                   
    
-# 💻 Tech Stack:   
+# 💻 Main Stack:   
  
 
 
