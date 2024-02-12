@@ -29,7 +29,7 @@
 <code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Tobu_Skytree_Line_%28TS%29_symbol.svg/400px-Tobu_Skytree_Line_%28TS%29_symbol.svg.png"></code>
 <code><img height="50" src="https://ih1.redbubble.net/image.1663370285.3721/st,small,845x845-pad,1000x1000,f8f8f8.u2.jpg"></code>
 <code><img height="50" src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-y563b8iq.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png"></code>
 <code> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></code>
 <code><img height="50" src="https://miro.medium.com/v2/resize:fit:800/1*v2vdfKqD4MtmTSgNP0o5cg.png"></code>
 <code><img height="50" src="https://web-strapi.mrmilu.com/uploads/flutter_logo_470e9f7491.png"></code>
