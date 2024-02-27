@@ -17,13 +17,11 @@
 <code><img height="45" src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5-thumbnail.png"></code>
 <code><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"></code>
 <code><img height="45" src="https://mms.businesswire.com/media/20230322005274/en/761650/22/postman-logo-vert-2018.jpg"></code>
-<code><img height="45" src="https://www.devopsmadness.com/images/dockerventure_1/docker_logo.png"></code>
 <code><img height="45" src="https://www.stonebranch.com/integration-hub/media/3c/64/66/1636642258/Stonebranch_SQL_Vendor_Product_Logo.svg"></code>
 <code><img height="45" src="https://www.odoo.com/web/image/res.users/1743454/image_1024?unique=5a107b9"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code>
 <code><img height="50" src="https://logowik.com/content/uploads/images/git6963.jpg"></code>
 <code><img height="45" src="https://ih1.redbubble.net/image.438910675.6211/st,small,507x507-pad,600x600,f8f8f8.u2.jpg"></code>
-<code><img height="45" src="https://ih1.redbubble.net/image.438912061.6243/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg"></code>
 <code><img height="50" src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png"></code>
 <code><img height="50" src="https://nestjs.com/img/logo-small.svg"></code>
 <code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Tobu_Skytree_Line_%28TS%29_symbol.svg/400px-Tobu_Skytree_Line_%28TS%29_symbol.svg.png"></code>
