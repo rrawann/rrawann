@@ -2,7 +2,7 @@
 
 I'm a web developer with experience in a variety of web development tools and frameworks.
 
----
+
 ## 🛠️ Technologies & Tools
 
 <div>
@@ -22,7 +22,7 @@ I'm a web developer with experience in a variety of web development tools and fr
 
 </div>
 
----
+
 
 ## 📈 GitHub Stats
 
@@ -32,7 +32,7 @@ I'm a web developer with experience in a variety of web development tools and fr
 <img src="https://github-readme-streak-stats.herokuapp.com?user=rrawann&theme=gruvbox_duo&hide_border=true" />
 
        
----
+
 
 ## 🤝 Let's Connect!
 
