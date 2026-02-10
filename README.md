@@ -8,7 +8,7 @@ I'm a web developer with experience in a variety of web development tools and fr
 <div>
        
   <img src="https://www.odoo.com/web/image/res.users/1743454/image_1024?unique=5a107b9" alt="Odoo" width="70" height="70">
-  <img src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-y563b8iq.png" alt="Next.js" width="50" height="50">
+  <img src="https://iconape.com/wp-content/png_logo_vector/next-js.png" alt="Next.js" width="50" height="50">
   <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="reactjs" width="60" height="60">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" alt="tailwind" width="60" height="40">
   <img src="https://nestjs.com/img/logo-small.svg" alt="nestjs" width="60" height="60">
